@@ -1,0 +1,654 @@
+Wed 21 Dec 22:45:27|listen *:58031[tcp4] for http success
+Wed 21 Dec 22:45:27|Cann't listen *:58031[tcp4] for http ,errno=22
+Wed 21 Dec 22:45:27|listen *:3311[tcp4] for manage success
+Wed 21 Dec 22:45:27|Cann't listen *:3311[tcp4] for manage ,errno=22
+Wed 21 Dec 22:45:27|Start success [pid=5452].
+Wed 21 Dec 22:47:43|Cann't listen *:58031[tcp4] for http ,errno=22
+Wed 21 Dec 22:47:43|Cann't listen *:58031[tcp4] for http ,errno=22
+Wed 21 Dec 22:47:43|Cann't listen *:3311[tcp4] for manage ,errno=22
+Wed 21 Dec 22:47:43|Cann't listen *:3311[tcp4] for manage ,errno=22
+Wed 21 Dec 22:47:43|No any listen , program start failed
+Wed 21 Dec 22:56:04|listen *:58031[tcp4] for http success
+Wed 21 Dec 22:56:04|Cann't listen *:58031[tcp4] for http ,errno=22
+Wed 21 Dec 22:56:04|listen *:3311[tcp4] for manage success
+Wed 21 Dec 22:56:04|Cann't listen *:3311[tcp4] for manage ,errno=22
+Wed 21 Dec 22:56:04|Start success [pid=4264].
+Wed 21 Dec 23:02:48|listen *:58031[tcp4] for http success
+Wed 21 Dec 23:02:48|Cann't listen *:58031[tcp4] for http ,errno=22
+Wed 21 Dec 23:02:49|listen *:3311[tcp4] for manage success
+Wed 21 Dec 23:02:49|Cann't listen *:3311[tcp4] for manage ,errno=22
+Wed 21 Dec 23:02:49|Start success [pid=5488].
+Wed 21 Dec 23:03:14|listen *:58031[tcp4] for http success
+Wed 21 Dec 23:03:14|Cann't listen *:58031[tcp4] for http ,errno=22
+Wed 21 Dec 23:03:14|listen *:3311[tcp4] for manage success
+Wed 21 Dec 23:03:14|Cann't listen *:3311[tcp4] for manage ,errno=22
+Wed 21 Dec 23:03:14|Start success [pid=3660].
+Wed 21 Dec 23:08:52|listen *:58031[tcp4] for http success
+Wed 21 Dec 23:08:52|Cann't listen *:58031[tcp4] for http ,errno=22
+Wed 21 Dec 23:08:52|listen *:3311[tcp4] for manage success
+Wed 21 Dec 23:08:52|Cann't listen *:3311[tcp4] for manage ,errno=22
+Wed 21 Dec 23:08:52|Start success [pid=5068].
+Wed 21 Dec 23:08:52|now create process ["C:\Documents and Settings\Administrator\桌面\Kangle3\bin\extworker.exe"]
+Thu 22 Dec 10:16:55|listen *:58031[tcp4] for http success
+Thu 22 Dec 10:16:55|Cann't listen *:58031[tcp4] for http ,errno=22
+Thu 22 Dec 10:16:55|listen *:3311[tcp4] for manage success
+Thu 22 Dec 10:16:55|Cann't listen *:3311[tcp4] for manage ,errno=22
+Thu 22 Dec 10:16:55|Start success [pid=6004].
+Thu 22 Dec 10:17:05|listen *:58031[tcp4] for http success
+Thu 22 Dec 10:17:05|Cann't listen *:58031[tcp4] for http ,errno=22
+Thu 22 Dec 10:17:05|listen *:3311[tcp4] for manage success
+Thu 22 Dec 10:17:05|Cann't listen *:3311[tcp4] for manage ,errno=22
+Thu 22 Dec 10:17:05|Start success [pid=3756].
+Thu 22 Dec 10:17:05|now create process ["C:\Documents and Settings\Administrator\桌面\Kangle3\bin\extworker.exe"]
+Thu 22 Dec 10:20:51|listen *:58031[tcp4] for http success
+Thu 22 Dec 10:20:51|Cann't listen *:58031[tcp4] for http ,errno=22
+Thu 22 Dec 10:20:51|listen *:3311[tcp4] for manage success
+Thu 22 Dec 10:20:51|Cann't listen *:3311[tcp4] for manage ,errno=22
+Thu 22 Dec 10:20:51|Start success [pid=1640].
+Thu 22 Dec 10:20:51|now create process ["C:\Documents and Settings\Administrator\桌面\Kangle3\bin\extworker.exe"]
+Thu 22 Dec 12:16:27|listen *:58031[tcp6] for http success
+Thu 22 Dec 12:16:27|listen *:58031[tcp4] for http success
+Thu 22 Dec 12:16:27|listen *:3311[tcp6] for manage success
+Thu 22 Dec 12:16:27|listen *:3311[tcp4] for manage success
+Thu 22 Dec 12:16:27|Start success [pid=2460].
+Thu 22 Dec 12:16:27|now create process ["D:\更新\aspWebServer\bin\extworker.exe"]
+Tue 20 Nov 10:46:09|listen *:58031[tcp4] for http success
+Tue 20 Nov 10:46:09|Cann't listen *:58031[tcp4] for http ,errno=22
+Tue 20 Nov 10:46:09|listen *:3311[tcp4] for manage success
+Tue 20 Nov 10:46:09|Cann't listen *:3311[tcp4] for manage ,errno=22
+Tue 20 Nov 10:46:09|Start success [pid=4980].
+Sun 29 Sep 14:55:04|listen *:58031[tcp6] for http success
+Sun 29 Sep 14:55:04|listen *:58031[tcp4] for http success
+Sun 29 Sep 14:55:04|listen *:3311[tcp6] for manage success
+Sun 29 Sep 14:55:04|listen *:3311[tcp4] for manage success
+Sun 29 Sep 14:55:04|Start success [pid=2756].
+Sun 29 Sep 14:55:04|now create process ["C:\Users\stu\Desktop\aspWebServer_bkill.com\aspWebServer\bin\extworker.exe"]
+Sun 29 Sep 14:55:30|listen *:58031[tcp6] for http success
+Sun 29 Sep 14:55:30|listen *:58031[tcp4] for http success
+Sun 29 Sep 14:55:30|listen *:3311[tcp6] for manage success
+Sun 29 Sep 14:55:30|listen *:3311[tcp4] for manage success
+Sun 29 Sep 14:55:30|Start success [pid=5460].
+Sun 29 Sep 14:55:30|now create process ["C:\Users\stu\Desktop\aspWebServer_bkill.com\aspWebServer\bin\extworker.exe"]
+Sun 29 Sep 14:56:33|listen *:58031[tcp6] for http success
+Sun 29 Sep 14:56:33|listen *:58031[tcp4] for http success
+Sun 29 Sep 14:56:33|listen *:3311[tcp6] for manage success
+Sun 29 Sep 14:56:33|listen *:3311[tcp4] for manage success
+Sun 29 Sep 14:56:33|Start success [pid=5344].
+Sun 29 Sep 14:56:33|now create process ["C:\Users\stu\Desktop\aspWebServer_bkill.com\aspWebServer\bin\extworker.exe"]
+Sun 29 Sep 14:56:54|listen *:58031[tcp6] for http success
+Sun 29 Sep 14:56:54|listen *:58031[tcp4] for http success
+Sun 29 Sep 14:56:54|listen *:3311[tcp6] for manage success
+Sun 29 Sep 14:56:54|listen *:3311[tcp4] for manage success
+Sun 29 Sep 14:56:54|Start success [pid=3372].
+Sun 29 Sep 14:56:54|now create process ["C:\Users\stu\Desktop\aspWebServer_bkill.com\aspWebServer\bin\extworker.exe"]
+Sun 29 Sep 14:57:19|listen *:58031[tcp6] for http success
+Sun 29 Sep 14:57:19|listen *:58031[tcp4] for http success
+Sun 29 Sep 14:57:19|listen *:3311[tcp6] for manage success
+Sun 29 Sep 14:57:19|listen *:3311[tcp4] for manage success
+Sun 29 Sep 14:57:19|Start success [pid=3216].
+Sun 29 Sep 14:57:19|now create process ["C:\Users\stu\Desktop\aspWebServer_bkill.com\aspWebServer\bin\extworker.exe"]
+Sun 29 Sep 14:57:33|listen *:58031[tcp6] for http success
+Sun 29 Sep 14:57:33|listen *:58031[tcp4] for http success
+Sun 29 Sep 14:57:33|listen *:3311[tcp6] for manage success
+Sun 29 Sep 14:57:33|listen *:3311[tcp4] for manage success
+Sun 29 Sep 14:57:33|Start success [pid=1868].
+Sun 29 Sep 14:57:33|now create process ["C:\Users\stu\Desktop\aspWebServer_bkill.com\aspWebServer\bin\extworker.exe"]
+Sun 29 Sep 14:57:47|listen *:58031[tcp6] for http success
+Sun 29 Sep 14:57:47|listen *:58031[tcp4] for http success
+Sun 29 Sep 14:57:47|listen *:3311[tcp6] for manage success
+Sun 29 Sep 14:57:47|listen *:3311[tcp4] for manage success
+Sun 29 Sep 14:57:47|Start success [pid=2656].
+Sun 29 Sep 14:57:47|now create process ["C:\Users\stu\Desktop\aspWebServer_bkill.com\aspWebServer\bin\extworker.exe"]
+Fri 25 Oct 16:25:03|listen *:58031[tcp6] for http success
+Fri 25 Oct 16:25:03|listen *:58031[tcp4] for http success
+Fri 25 Oct 16:25:03|listen *:3311[tcp6] for manage success
+Fri 25 Oct 16:25:03|listen *:3311[tcp4] for manage success
+Fri 25 Oct 16:25:03|Start success [pid=428].
+Fri 25 Oct 16:25:03|now create process ["F:\0 201309上课\ACCESS\aspWebServer\aspWebServer\bin\extworker.exe"]
+Fri 25 Oct 16:29:39|listen *:58031[tcp6] for http success
+Fri 25 Oct 16:29:39|listen *:58031[tcp4] for http success
+Fri 25 Oct 16:29:39|listen *:3311[tcp6] for manage success
+Fri 25 Oct 16:29:39|listen *:3311[tcp4] for manage success
+Fri 25 Oct 16:29:39|Start success [pid=1052].
+Fri 25 Oct 16:29:39|now create process ["F:\0 201309上课\ACCESS\aspWebServer\aspWebServer\bin\extworker.exe"]
+Fri 15 Nov 15:12:45|listen *:58031[tcp6] for http success
+Fri 15 Nov 15:12:45|listen *:58031[tcp4] for http success
+Fri 15 Nov 15:12:45|listen *:3311[tcp6] for manage success
+Fri 15 Nov 15:12:45|listen *:3311[tcp4] for manage success
+Fri 15 Nov 15:12:45|Start success [pid=2828].
+Mon 23 Dec 18:43:09|listen *:58031[tcp6] for http success
+Mon 23 Dec 18:43:09|listen *:58031[tcp4] for http success
+Mon 23 Dec 18:43:09|listen *:3311[tcp6] for manage success
+Mon 23 Dec 18:43:09|listen *:3311[tcp4] for manage success
+Mon 23 Dec 18:43:09|Start success [pid=6264].
+Mon 23 Dec 18:43:29|listen *:58031[tcp6] for http success
+Mon 23 Dec 18:43:29|listen *:58031[tcp4] for http success
+Mon 23 Dec 18:43:29|listen *:3311[tcp6] for manage success
+Mon 23 Dec 18:43:29|listen *:3311[tcp4] for manage success
+Mon 23 Dec 18:43:29|Start success [pid=5028].
+Mon 23 Dec 18:44:08|listen *:58031[tcp6] for http success
+Mon 23 Dec 18:44:08|listen *:58031[tcp4] for http success
+Mon 23 Dec 18:44:08|listen *:3311[tcp6] for manage success
+Mon 23 Dec 18:44:08|listen *:3311[tcp4] for manage success
+Mon 23 Dec 18:44:08|Start success [pid=4948].
+Mon 23 Dec 18:44:08|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Mon 23 Dec 18:45:12|listen *:58031[tcp6] for http success
+Mon 23 Dec 18:45:12|listen *:58031[tcp4] for http success
+Mon 23 Dec 18:45:12|listen *:3311[tcp6] for manage success
+Mon 23 Dec 18:45:12|listen *:3311[tcp4] for manage success
+Mon 23 Dec 18:45:12|Start success [pid=5444].
+Mon 23 Dec 18:45:12|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Mon 23 Dec 18:46:59|listen *:58031[tcp6] for http success
+Mon 23 Dec 18:46:59|listen *:58031[tcp4] for http success
+Mon 23 Dec 18:46:59|listen *:3311[tcp6] for manage success
+Mon 23 Dec 18:46:59|listen *:3311[tcp4] for manage success
+Mon 23 Dec 18:46:59|Start success [pid=7820].
+Mon 23 Dec 18:47:00|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 17:59:49|listen *:58031[tcp6] for http success
+Wed 25 Dec 17:59:49|listen *:58031[tcp4] for http success
+Wed 25 Dec 17:59:49|listen *:3311[tcp6] for manage success
+Wed 25 Dec 17:59:49|listen *:3311[tcp4] for manage success
+Wed 25 Dec 17:59:49|Start success [pid=4000].
+Wed 25 Dec 17:59:50|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:00:35|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:00:35|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:00:35|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:00:35|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:00:35|Start success [pid=1252].
+Wed 25 Dec 18:00:36|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:01:24|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:01:24|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:01:24|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:01:24|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:01:24|Start success [pid=6952].
+Wed 25 Dec 18:01:25|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:02:23|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:02:23|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:02:23|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:02:23|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:02:23|Start success [pid=9972].
+Wed 25 Dec 18:02:24|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:05:55|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:05:55|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:05:55|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:05:55|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:05:55|Start success [pid=10184].
+Wed 25 Dec 18:10:07|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:10:07|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:10:07|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:10:07|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:10:07|Start success [pid=4576].
+Wed 25 Dec 18:10:09|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:11:50|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:11:50|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:11:50|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:11:51|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:11:51|Start success [pid=6860].
+Wed 25 Dec 18:11:53|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:28:30|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:28:30|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:28:30|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:28:30|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:28:30|Start success [pid=8932].
+Wed 25 Dec 18:29:25|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:34:39|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:34:39|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:34:39|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:34:39|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:34:39|Start success [pid=9792].
+Wed 25 Dec 18:34:42|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:36:11|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:36:11|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:36:11|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:36:11|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:36:11|Start success [pid=9760].
+Wed 25 Dec 18:36:14|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:44:17|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:44:17|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:44:17|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:44:17|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:44:17|Start success [pid=1064].
+Wed 25 Dec 18:44:19|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:48:51|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:48:51|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:48:51|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:48:51|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:48:51|Start success [pid=10148].
+Wed 25 Dec 18:48:53|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:49:27|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:49:27|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:49:27|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:49:27|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:49:27|Start success [pid=3424].
+Wed 25 Dec 18:49:29|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:51:20|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:51:20|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:51:20|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:51:20|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:51:20|Start success [pid=7464].
+Wed 25 Dec 18:51:23|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:54:42|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:54:42|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:54:42|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:54:42|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:54:42|Start success [pid=10044].
+Wed 25 Dec 18:55:01|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:56:34|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:56:34|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:56:34|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:56:34|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:56:34|Start success [pid=11384].
+Wed 25 Dec 18:56:36|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 18:59:40|listen *:58031[tcp6] for http success
+Wed 25 Dec 18:59:40|listen *:58031[tcp4] for http success
+Wed 25 Dec 18:59:40|listen *:3311[tcp6] for manage success
+Wed 25 Dec 18:59:40|listen *:3311[tcp4] for manage success
+Wed 25 Dec 18:59:40|Start success [pid=11624].
+Wed 25 Dec 18:59:41|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:18:48|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:18:48|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:18:48|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:18:48|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:18:48|Start success [pid=11108].
+Wed 25 Dec 19:18:52|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:20:34|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:20:34|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:20:34|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:20:34|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:20:34|Start success [pid=10620].
+Wed 25 Dec 19:20:37|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:29:37|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:29:37|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:29:37|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:29:37|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:29:37|Start success [pid=7428].
+Wed 25 Dec 19:29:42|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:32:17|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:32:17|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:32:17|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:32:17|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:32:17|Start success [pid=4588].
+Wed 25 Dec 19:32:19|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:37:22|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:37:22|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:37:22|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:37:22|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:37:22|Start success [pid=12168].
+Wed 25 Dec 19:37:25|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:41:03|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:41:03|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:41:03|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:41:03|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:41:03|Start success [pid=9944].
+Wed 25 Dec 19:41:05|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:47:37|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:47:37|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:47:37|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:47:37|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:47:37|Start success [pid=8120].
+Wed 25 Dec 19:47:39|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:49:42|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:49:42|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:49:42|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:49:42|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:49:42|Start success [pid=11100].
+Wed 25 Dec 19:49:51|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:52:37|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:52:37|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:52:37|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:52:37|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:52:37|Start success [pid=6856].
+Wed 25 Dec 19:52:40|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 19:58:18|listen *:58031[tcp6] for http success
+Wed 25 Dec 19:58:18|listen *:58031[tcp4] for http success
+Wed 25 Dec 19:58:18|listen *:3311[tcp6] for manage success
+Wed 25 Dec 19:58:18|listen *:3311[tcp4] for manage success
+Wed 25 Dec 19:58:18|Start success [pid=4672].
+Wed 25 Dec 19:58:20|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 20:03:24|listen *:58031[tcp6] for http success
+Wed 25 Dec 20:03:24|listen *:58031[tcp4] for http success
+Wed 25 Dec 20:03:24|listen *:3311[tcp6] for manage success
+Wed 25 Dec 20:03:24|listen *:3311[tcp4] for manage success
+Wed 25 Dec 20:03:24|Start success [pid=11692].
+Wed 25 Dec 20:03:27|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 20:08:13|listen *:58031[tcp6] for http success
+Wed 25 Dec 20:08:13|listen *:58031[tcp4] for http success
+Wed 25 Dec 20:08:13|listen *:3311[tcp6] for manage success
+Wed 25 Dec 20:08:13|listen *:3311[tcp4] for manage success
+Wed 25 Dec 20:08:13|Start success [pid=6736].
+Wed 25 Dec 20:08:16|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 20:12:56|listen *:58031[tcp6] for http success
+Wed 25 Dec 20:12:56|listen *:58031[tcp4] for http success
+Wed 25 Dec 20:12:56|listen *:3311[tcp6] for manage success
+Wed 25 Dec 20:12:56|listen *:3311[tcp4] for manage success
+Wed 25 Dec 20:12:56|Start success [pid=4728].
+Wed 25 Dec 20:15:17|listen *:58031[tcp6] for http success
+Wed 25 Dec 20:15:17|listen *:58031[tcp4] for http success
+Wed 25 Dec 20:15:17|listen *:3311[tcp6] for manage success
+Wed 25 Dec 20:15:17|listen *:3311[tcp4] for manage success
+Wed 25 Dec 20:15:17|Start success [pid=3992].
+Wed 25 Dec 20:16:50|listen *:58031[tcp6] for http success
+Wed 25 Dec 20:16:50|listen *:58031[tcp4] for http success
+Wed 25 Dec 20:16:50|listen *:3311[tcp6] for manage success
+Wed 25 Dec 20:16:50|listen *:3311[tcp4] for manage success
+Wed 25 Dec 20:16:50|Start success [pid=11608].
+Wed 25 Dec 20:17:16|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 20:21:58|listen *:58031[tcp6] for http success
+Wed 25 Dec 20:21:58|listen *:58031[tcp4] for http success
+Wed 25 Dec 20:21:58|listen *:3311[tcp6] for manage success
+Wed 25 Dec 20:21:58|listen *:3311[tcp4] for manage success
+Wed 25 Dec 20:21:58|Start success [pid=9500].
+Wed 25 Dec 20:22:01|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 20:25:26|listen *:58031[tcp6] for http success
+Wed 25 Dec 20:25:26|listen *:58031[tcp4] for http success
+Wed 25 Dec 20:25:26|listen *:3311[tcp6] for manage success
+Wed 25 Dec 20:25:26|listen *:3311[tcp4] for manage success
+Wed 25 Dec 20:25:26|Start success [pid=6800].
+Wed 25 Dec 20:25:32|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 21:50:34|listen *:58031[tcp6] for http success
+Wed 25 Dec 21:50:34|listen *:58031[tcp4] for http success
+Wed 25 Dec 21:50:34|listen *:3311[tcp6] for manage success
+Wed 25 Dec 21:50:34|listen *:3311[tcp4] for manage success
+Wed 25 Dec 21:50:34|Start success [pid=6952].
+Wed 25 Dec 21:50:48|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:01:32|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:01:32|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:01:32|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:01:32|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:01:32|Start success [pid=9240].
+Wed 25 Dec 22:01:36|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:14:09|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:14:09|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:14:09|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:14:09|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:14:09|Start success [pid=8392].
+Wed 25 Dec 22:14:13|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:15:03|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:15:03|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:15:03|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:15:03|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:15:03|Start success [pid=10024].
+Wed 25 Dec 22:15:06|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:19:51|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:19:51|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:19:51|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:19:51|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:19:51|Start success [pid=2532].
+Wed 25 Dec 22:19:54|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:24:34|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:24:34|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:24:34|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:24:34|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:24:34|Start success [pid=8664].
+Wed 25 Dec 22:24:38|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:31:31|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:31:31|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:31:31|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:31:31|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:31:31|Start success [pid=11136].
+Wed 25 Dec 22:31:39|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:33:33|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:33:33|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:33:33|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:33:33|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:33:33|Start success [pid=12552].
+Wed 25 Dec 22:33:38|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:38:51|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:38:51|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:38:51|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:38:51|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:38:51|Start success [pid=13256].
+Wed 25 Dec 22:40:53|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:40:53|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:40:53|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:40:53|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:40:53|Start success [pid=4648].
+Wed 25 Dec 22:41:31|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Wed 25 Dec 22:52:09|listen *:58031[tcp6] for http success
+Wed 25 Dec 22:52:09|listen *:58031[tcp4] for http success
+Wed 25 Dec 22:52:09|listen *:3311[tcp6] for manage success
+Wed 25 Dec 22:52:09|listen *:3311[tcp4] for manage success
+Wed 25 Dec 22:52:09|Start success [pid=14292].
+Wed 25 Dec 22:52:32|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Thu 26 Dec 17:39:54|listen *:58031[tcp6] for http success
+Thu 26 Dec 17:39:54|listen *:58031[tcp4] for http success
+Thu 26 Dec 17:39:54|listen *:3311[tcp6] for manage success
+Thu 26 Dec 17:39:54|listen *:3311[tcp4] for manage success
+Thu 26 Dec 17:39:54|Start success [pid=5788].
+Thu 26 Dec 17:40:16|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Thu 26 Dec 17:41:40|listen *:58031[tcp6] for http success
+Thu 26 Dec 17:41:40|listen *:58031[tcp4] for http success
+Thu 26 Dec 17:41:40|listen *:3311[tcp6] for manage success
+Thu 26 Dec 17:41:40|listen *:3311[tcp4] for manage success
+Thu 26 Dec 17:41:40|Start success [pid=6744].
+Thu 26 Dec 17:41:45|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Thu 26 Dec 22:34:12|listen *:58031[tcp6] for http success
+Thu 26 Dec 22:34:12|listen *:58031[tcp4] for http success
+Thu 26 Dec 22:34:12|listen *:3311[tcp6] for manage success
+Thu 26 Dec 22:34:12|listen *:3311[tcp4] for manage success
+Thu 26 Dec 22:34:12|Start success [pid=6104].
+Thu 26 Dec 22:34:36|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Thu 26 Dec 22:37:57|listen *:58031[tcp6] for http success
+Thu 26 Dec 22:37:57|listen *:58031[tcp4] for http success
+Thu 26 Dec 22:37:57|listen *:3311[tcp6] for manage success
+Thu 26 Dec 22:37:57|listen *:3311[tcp4] for manage success
+Thu 26 Dec 22:37:57|Start success [pid=7124].
+Thu 26 Dec 22:38:01|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Sat 14 Jun 18:30:10|listen *:58031[tcp6] for http success
+Sat 14 Jun 18:30:27|Cann't listen *:58031[tcp4] for http ,errno=2
+Sat 14 Jun 18:30:27|listen *:3311[tcp6] for manage success
+Sat 14 Jun 18:30:29|listen *:3311[tcp4] for manage success
+Sat 14 Jun 18:30:29|Start success [pid=3744].
+Sat 14 Jun 18:30:47|now create process ["E:\大二\网站数据库\aspWebServer\aspWebServer\bin\extworker.exe"]
+Sat 14 Jun 18:48:13|listen *:58031[tcp6] for http success
+Sat 14 Jun 18:48:13|listen *:58031[tcp4] for http success
+Sat 14 Jun 18:48:13|listen *:3311[tcp6] for manage success
+Sat 14 Jun 18:48:13|listen *:3311[tcp4] for manage success
+Sat 14 Jun 18:48:13|Start success [pid=5272].
+Sat 14 Jun 18:56:48|listen *:58031[tcp6] for http success
+Sat 14 Jun 18:56:48|listen *:58031[tcp4] for http success
+Sat 14 Jun 18:56:48|listen *:3311[tcp6] for manage success
+Sat 14 Jun 18:56:48|listen *:3311[tcp4] for manage success
+Sat 14 Jun 18:56:48|Start success [pid=9172].
+Sat 14 Jun 18:57:53|listen *:58031[tcp6] for http success
+Sat 14 Jun 18:57:53|listen *:58031[tcp4] for http success
+Sat 14 Jun 18:57:53|listen *:3311[tcp6] for manage success
+Sat 14 Jun 18:57:53|listen *:3311[tcp4] for manage success
+Sat 14 Jun 18:57:53|Start success [pid=4464].
+Sat 14 Jun 20:05:11|listen *:58031[tcp6] for http success
+Sat 14 Jun 20:05:11|listen *:58031[tcp4] for http success
+Sat 14 Jun 20:05:11|listen *:3311[tcp6] for manage success
+Sat 14 Jun 20:05:11|listen *:3311[tcp4] for manage success
+Sat 14 Jun 20:05:11|Start success [pid=9944].
+Sat 14 Jun 20:05:22|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Sat 14 Jun 20:08:38|listen *:58031[tcp6] for http success
+Sat 14 Jun 20:08:38|listen *:58031[tcp4] for http success
+Sat 14 Jun 20:08:38|listen *:3311[tcp6] for manage success
+Sat 14 Jun 20:08:38|listen *:3311[tcp4] for manage success
+Sat 14 Jun 20:08:38|Start success [pid=11132].
+Sat 14 Jun 20:25:43|listen *:58031[tcp6] for http success
+Sat 14 Jun 20:25:43|listen *:58031[tcp4] for http success
+Sat 14 Jun 20:25:43|listen *:3311[tcp6] for manage success
+Sat 14 Jun 20:25:43|listen *:3311[tcp4] for manage success
+Sat 14 Jun 20:25:43|Start success [pid=8460].
+Sat 14 Jun 20:27:04|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Sat 14 Jun 23:08:37|listen *:58031[tcp6] for http success
+Sat 14 Jun 23:08:37|listen *:58031[tcp4] for http success
+Sat 14 Jun 23:08:37|listen *:3311[tcp6] for manage success
+Sat 14 Jun 23:08:37|listen *:3311[tcp4] for manage success
+Sat 14 Jun 23:08:37|Start success [pid=1228].
+Sun 15 Jun 00:07:31|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Sun 15 Jun 00:54:11|listen *:58031[tcp6] for http success
+Sun 15 Jun 00:54:11|listen *:58031[tcp4] for http success
+Sun 15 Jun 00:54:11|listen *:3311[tcp6] for manage success
+Sun 15 Jun 00:54:11|listen *:3311[tcp4] for manage success
+Sun 15 Jun 00:54:11|Start success [pid=8232].
+Sun 15 Jun 00:55:01|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Sun 15 Jun 01:00:33|listen *:58031[tcp6] for http success
+Sun 15 Jun 01:00:34|listen *:58031[tcp4] for http success
+Sun 15 Jun 01:00:34|listen *:3311[tcp6] for manage success
+Sun 15 Jun 01:00:34|listen *:3311[tcp4] for manage success
+Sun 15 Jun 01:00:34|Start success [pid=11568].
+Sun 15 Jun 01:02:13|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Sun 15 Jun 14:16:32|listen *:58031[tcp4] for http success
+Sun 15 Jun 14:16:32|Cann't listen *:58031[tcp4] for http ,errno=2
+Sun 15 Jun 14:16:32|listen *:3311[tcp4] for manage success
+Sun 15 Jun 14:16:32|Cann't listen *:3311[tcp4] for manage ,errno=2
+Sun 15 Jun 14:16:32|Start success [pid=4380].
+Sun 15 Jun 14:17:34|now create process ["I:\软件工程\aspWebServer\bin\extworker.exe"]
+Sun 15 Jun 14:45:53|now create process ["I:\软件工程\aspWebServer\bin\extworker.exe"]
+Tue 17 Jun 15:35:34|listen *:58031[tcp6] for http success
+Tue 17 Jun 15:35:34|listen *:58031[tcp4] for http success
+Tue 17 Jun 15:35:34|listen *:3311[tcp6] for manage success
+Tue 17 Jun 15:35:34|listen *:3311[tcp4] for manage success
+Tue 17 Jun 15:35:34|Start success [pid=8212].
+Mon 16 Jun 18:46:39|listen *:58031[tcp6] for http success
+Mon 16 Jun 18:46:39|listen *:58031[tcp4] for http success
+Mon 16 Jun 18:46:39|listen *:3311[tcp6] for manage success
+Mon 16 Jun 18:46:39|listen *:3311[tcp4] for manage success
+Mon 16 Jun 18:46:39|Start success [pid=7848].
+Tue 17 Jun 18:51:18|listen *:58031[tcp6] for http success
+Tue 17 Jun 18:51:18|listen *:58031[tcp4] for http success
+Tue 17 Jun 18:51:18|listen *:3311[tcp6] for manage success
+Tue 17 Jun 18:51:18|listen *:3311[tcp4] for manage success
+Tue 17 Jun 18:51:18|Start success [pid=11256].
+Tue 17 Jun 18:55:55|now create process ["L:\软件工程\aspWebServer\bin\extworker.exe"]
+Tue 17 Jun 19:23:49|listen *:58031[tcp6] for http success
+Tue 17 Jun 19:23:49|listen *:58031[tcp4] for http success
+Tue 17 Jun 19:23:49|listen *:3311[tcp6] for manage success
+Tue 17 Jun 19:23:49|listen *:3311[tcp4] for manage success
+Tue 17 Jun 19:23:49|Start success [pid=9628].
+Tue 17 Jun 19:24:17|now create process ["L:\软件工程\aspWebServer\bin\extworker.exe"]
+Tue 17 Jun 19:33:58|listen *:58031[tcp6] for http success
+Tue 17 Jun 19:33:58|listen *:58031[tcp4] for http success
+Tue 17 Jun 19:33:58|listen *:3311[tcp6] for manage success
+Tue 17 Jun 19:33:58|listen *:3311[tcp4] for manage success
+Tue 17 Jun 19:33:58|Start success [pid=7380].
+Tue 17 Jun 19:36:54|now create process ["L:\软件工程\aspWebServer\bin\extworker.exe"]
+Thu 25 Dec 17:08:05|listen *:58031[tcp6] for http success
+Thu 25 Dec 17:08:05|listen *:58031[tcp4] for http success
+Thu 25 Dec 17:08:05|listen *:3311[tcp6] for manage success
+Thu 25 Dec 17:08:05|listen *:3311[tcp4] for manage success
+Thu 25 Dec 17:08:05|Start success [pid=6244].
+Thu 25 Dec 17:08:32|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Thu 25 Dec 19:05:36|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
+Fri 26 Dec 03:00:16|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Fri 26 Dec 11:14:05|listen *:58031[tcp6] for http success
+Fri 26 Dec 11:14:05|listen *:58031[tcp4] for http success
+Fri 26 Dec 11:14:05|listen *:3311[tcp6] for manage success
+Fri 26 Dec 11:14:05|listen *:3311[tcp4] for manage success
+Fri 26 Dec 11:14:05|Start success [pid=3976].
+Fri 26 Dec 11:14:32|listen *:58031[tcp6] for http success
+Fri 26 Dec 11:14:32|listen *:58031[tcp4] for http success
+Fri 26 Dec 11:14:32|listen *:3311[tcp6] for manage success
+Fri 26 Dec 11:14:32|listen *:3311[tcp4] for manage success
+Fri 26 Dec 11:14:32|Start success [pid=12944].
+Mon 29 Dec 14:33:58|listen *:58031[tcp6] for http success
+Mon 29 Dec 14:33:58|listen *:58031[tcp4] for http success
+Mon 29 Dec 14:33:58|listen *:3311[tcp6] for manage success
+Mon 29 Dec 14:33:58|listen *:3311[tcp4] for manage success
+Mon 29 Dec 14:33:58|Start success [pid=6548].
+Mon 29 Dec 14:35:55|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Tue 30 Dec 03:00:17|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Tue 30 Dec 19:42:38|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
+Wed 31 Dec 03:00:13|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Wed 31 Dec 22:32:55|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
+Thu 01 Jan 03:00:13|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Thu 01 Jan 22:33:12|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
+Fri 02 Jan 03:00:13|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Fri 02 Jan 16:00:14|listen *:58031[tcp6] for http success
+Fri 02 Jan 16:00:14|listen *:58031[tcp4] for http success
+Fri 02 Jan 16:00:14|listen *:3311[tcp6] for manage success
+Fri 02 Jan 16:00:14|listen *:3311[tcp4] for manage success
+Fri 02 Jan 16:00:14|Start success [pid=11412].
+Fri 02 Jan 17:31:15|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
+Fri 02 Jan 23:07:34|listen *:58031[tcp6] for http success
+Fri 02 Jan 23:07:34|listen *:58031[tcp4] for http success
+Fri 02 Jan 23:07:34|listen *:3311[tcp6] for manage success
+Fri 02 Jan 23:07:34|listen *:3311[tcp4] for manage success
+Fri 02 Jan 23:07:34|Start success [pid=15788].
+Sat 03 Jan 05:32:38|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Sat 03 Jan 16:48:57|listen *:58031[tcp6] for http success
+Sat 03 Jan 16:48:57|listen *:58031[tcp4] for http success
+Sat 03 Jan 16:48:57|listen *:3311[tcp6] for manage success
+Sat 03 Jan 16:48:57|listen *:3311[tcp4] for manage success
+Sat 03 Jan 16:48:57|Start success [pid=14200].
+Sat 03 Jan 16:52:52|listen *:58031[tcp6] for http success
+Sat 03 Jan 16:52:52|listen *:58031[tcp4] for http success
+Sat 03 Jan 16:52:52|listen *:3311[tcp6] for manage success
+Sat 03 Jan 16:52:52|listen *:3311[tcp4] for manage success
+Sat 03 Jan 16:52:52|Start success [pid=15248].
+Sat 03 Jan 16:55:15|listen *:58031[tcp6] for http success
+Sat 03 Jan 16:55:15|listen *:58031[tcp4] for http success
+Sat 03 Jan 16:55:15|listen *:3311[tcp6] for manage success
+Sat 03 Jan 16:55:15|listen *:3311[tcp4] for manage success
+Sat 03 Jan 16:55:15|Start success [pid=15624].
+Sat 03 Jan 16:55:55|listen *:58031[tcp6] for http success
+Sat 03 Jan 16:55:55|listen *:58031[tcp4] for http success
+Sat 03 Jan 16:55:55|listen *:3311[tcp6] for manage success
+Sat 03 Jan 16:55:55|listen *:3311[tcp4] for manage success
+Sat 03 Jan 16:55:55|Start success [pid=11912].
+Sun 04 Jan 00:48:03|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
+Sun 04 Jan 03:00:13|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Mon 05 Jan 16:16:24|listen *:58031[tcp6] for http success
+Mon 05 Jan 16:16:24|listen *:58031[tcp4] for http success
+Mon 05 Jan 16:16:24|listen *:3311[tcp6] for manage success
+Mon 05 Jan 16:16:24|listen *:3311[tcp4] for manage success
+Mon 05 Jan 16:16:24|Start success [pid=1632].
+Mon 05 Jan 16:33:58|listen *:58031[tcp6] for http success
+Mon 05 Jan 16:33:58|listen *:58031[tcp4] for http success
+Mon 05 Jan 16:33:58|listen *:3311[tcp6] for manage success
+Mon 05 Jan 16:33:58|listen *:3311[tcp4] for manage success
+Mon 05 Jan 16:33:58|Start success [pid=2476].
+Mon 05 Jan 16:36:31|listen *:58031[tcp6] for http success
+Mon 05 Jan 16:36:31|listen *:58031[tcp4] for http success
+Mon 05 Jan 16:36:31|listen *:3311[tcp6] for manage success
+Mon 05 Jan 16:36:31|listen *:3311[tcp4] for manage success
+Mon 05 Jan 16:36:31|Start success [pid=8528].
+Mon 05 Jan 21:31:55|listen *:58031[tcp6] for http success
+Mon 05 Jan 21:31:55|listen *:58031[tcp4] for http success
+Mon 05 Jan 21:31:55|listen *:3311[tcp6] for manage success
+Mon 05 Jan 21:31:55|listen *:3311[tcp4] for manage success
+Mon 05 Jan 21:31:55|Start success [pid=12160].
+Tue 06 Jan 03:00:11|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Tue 06 Jan 17:15:57|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
+Tue 06 Jan 20:58:27|listen *:58031[tcp6] for http success
+Tue 06 Jan 20:58:27|listen *:58031[tcp4] for http success
+Tue 06 Jan 20:58:27|listen *:3311[tcp6] for manage success
+Tue 06 Jan 20:58:27|listen *:3311[tcp4] for manage success
+Tue 06 Jan 20:58:27|Start success [pid=12752].
+Tue 06 Jan 21:03:11|listen *:58031[tcp6] for http success
+Tue 06 Jan 21:03:11|listen *:58031[tcp4] for http success
+Tue 06 Jan 21:03:11|listen *:3311[tcp6] for manage success
+Tue 06 Jan 21:03:11|listen *:3311[tcp4] for manage success
+Tue 06 Jan 21:03:11|Start success [pid=14144].
+Tue 06 Jan 21:07:17|listen *:58031[tcp6] for http success
+Tue 06 Jan 21:07:17|listen *:58031[tcp4] for http success
+Tue 06 Jan 21:07:17|listen *:3311[tcp6] for manage success
+Tue 06 Jan 21:07:17|listen *:3311[tcp4] for manage success
+Tue 06 Jan 21:07:17|Start success [pid=21124].
+Tue 06 Jan 21:21:27|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
+Tue 06 Jan 21:22:12|listen *:58031[tcp6] for http success
+Tue 06 Jan 21:22:12|listen *:58031[tcp4] for http success
+Tue 06 Jan 21:22:12|listen *:3311[tcp6] for manage success
+Tue 06 Jan 21:22:12|listen *:3311[tcp4] for manage success
+Tue 06 Jan 21:22:12|Start success [pid=14892].
+Tue 06 Jan 21:23:01|listen *:58031[tcp6] for http success
+Tue 06 Jan 21:23:01|listen *:58031[tcp4] for http success
+Tue 06 Jan 21:23:01|listen *:3311[tcp6] for manage success
+Tue 06 Jan 21:23:01|listen *:3311[tcp4] for manage success
+Tue 06 Jan 21:23:01|Start success [pid=11096].
+Tue 06 Jan 21:41:37|listen *:58031[tcp6] for http success
+Tue 06 Jan 21:41:37|listen *:58031[tcp4] for http success
+Tue 06 Jan 21:41:37|listen *:3311[tcp6] for manage success
+Tue 06 Jan 21:41:37|listen *:3311[tcp4] for manage success
+Tue 06 Jan 21:41:37|Start success [pid=21160].
+Tue 06 Jan 21:44:14|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Tue 06 Jan 22:58:58|listen *:58031[tcp6] for http success
+Tue 06 Jan 22:58:58|listen *:58031[tcp4] for http success
+Tue 06 Jan 22:58:58|listen *:3311[tcp6] for manage success
+Tue 06 Jan 22:58:58|listen *:3311[tcp4] for manage success
+Tue 06 Jan 22:58:58|Start success [pid=17256].
+Tue 06 Jan 22:59:25|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin\extworker.exe"]
+Wed 07 Jan 03:00:13|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "kangle" "install"]
+Wed 07 Jan 05:28:07|now create process ["C:\Users\lyd\Desktop\aspWebServer\bin/autoupdate.exe" "C:\Users\lyd\Desktop\aspWebServer\\" "http://autoupdate.kanglesoft.com/config.php?version=2.7.2&type=free&f=win_x86" "down"]
